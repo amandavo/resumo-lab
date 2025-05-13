@@ -63,3 +63,7 @@ A computação em nuvem é um modelo de entrega de serviços de tecnologia em qu
 [Criar na nuvem com uma conta do Azure](https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account/search?icid=free-search&ef_id=_k_Cj0KCQjwqv2_BhC0ARIsAFb5Ac8SXnjrruJ1NgWRai9BwduWZQPlRaZbY6pf9cGSv43zXFV-TRdDKNIaAujdEALw_wcB_k_&OCID=AIDcmmzmnb0182_SEM__k_Cj0KCQjwqv2_BhC0ARIsAFb5Ac8SXnjrruJ1NgWRai9BwduWZQPlRaZbY6pf9cGSv43zXFV-TRdDKNIaAujdEALw_wcB_k_&gad_source=1&gbraid=0AAAAADcJh_uz8hID3l6n0Q0LR1dBH96pv&gclid=Cj0KCQjwqv2_BhC0ARIsAFb5Ac8SXnjrruJ1NgWRai9BwduWZQPlRaZbY6pf9cGSv43zXFV-TRdDKNIaAujdEALw_wcB)
 
 [Criar uma máquina virtual(VM) no Portal do Azure](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal)
+
+[Criar um bd individual - Bancos de Dados SQL](https://learn.microsoft.com/pt-br/azure/azure-sql/database/single-database-create-quickstart?view=azuresql&tabs=azure-portal)
+
+[Criar Instância Gerenciada de SQL do Azure](https://learn.microsoft.com/pt-br/azure/azure-sql/managed-instance/instance-create-quickstart?view=azuresql&tabs=azure-portal)
