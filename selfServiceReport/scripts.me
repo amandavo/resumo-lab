@@ -1,0 +1,42 @@
+# Criar um resumo de vendas por país e por plataforma (site)
+resumo = df.groupby(['site', 'delivery_country']).agg(
+    total_sales=('total_price', 'sum'),
+    total_quantity=('quantity', 'sum'),
+    num_orders=('invoice_id', 'count')
+).reset_index()
+
+# Organizar por site e país
+resumo = resumo.sort_values(by=['site', 'delivery_country'])
+
+resumo
+
+________________________________________________________________________________________________________
+
+
+import pandas as pd
+
+# Carregar novamente o arquivo enviado
+file_path = '/mnt/data/Meganium_Sales_Data.xlsx'
+xls = pd.ExcelFile(file_path)
+
+# Carregar a planilha consolidada
+df = pd.read_excel(file_path, sheet_name='consolidate')
+
+# Criar o resumo de vendas por país e plataforma
+resumo = df.groupby(['site', 'delivery_country']).agg(
+    total_sales=('total_price', 'sum'),
+    total_quantity=('quantity', 'sum'),
+    num_orders=('invoice_id', 'count')
+).reset_index()
+
+# Calcular a média por pedido
+resumo['average_per_order'] = resumo['total_sales'] / resumo['num_orders']
+
+# Selecionar e formatar as colunas finais
+resumo_final = resumo[['site', 'delivery_country', 'total_sales', 'num_orders', 'average_per_order']]
+resumo_final['average_per_order'] = resumo_final['average_per_order'].round(2)
+
+# Ordenar para visualização
+resumo_final = resumo_final.sort_values(by=['site', 'delivery_country'])
+
+resumo_final
