@@ -1,0 +1,225 @@
+[
+    {
+        "Id": "d692e96623d9446388c3d2b02f7f4726",
+        "RecognitionStatus": "Success",
+        "Offset": 700000,
+        "Duration": 160000000,
+        "Channel": 0,
+        "DisplayText": "Difícil o primeiro princípio se envolve o espírito de certo. Simão Pedro, amo isso aqui você vai observar depois. Olha, em todas as carnes, não é só Pedro. Simão Pedro, certo e apóstolo, não há espírito apostório sem coração de serve.",
+        "NBest": [
+            {
+                "Confidence": 0.6524409,
+                "Lexical": "difícil o primeiro princípio se envolve o espírito de certo simão pedro amo isso aqui você vai observar depois olha em todas as carnes não é só pedro simão pedro certo e apóstolo não há espírito apostório sem coração de serve",
+                "ITN": "difícil o primeiro princípio se envolve o espírito de certo simão pedro amo isso aqui você vai observar depois olha em todas as carnes não é só pedro simão pedro certo e apóstolo não há espírito apostório sem coração de serve",
+                "MaskedITN": "difícil o primeiro princípio se envolve o espírito de certo simão pedro amo isso aqui você vai observar depois olha em todas as carnes não é só pedro simão pedro certo e apóstolo não há espírito apostório sem coração de serve",
+                "Display": "Difícil o primeiro princípio se envolve o espírito de certo. Simão Pedro, amo isso aqui você vai observar depois. Olha, em todas as carnes, não é só Pedro. Simão Pedro, certo e apóstolo, não há espírito apostório sem coração de serve.",
+                "Words": [
+                    {
+                        "Word": "difícil",
+                        "Offset": 700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 5500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "primeiro",
+                        "Offset": 5900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "princípio",
+                        "Offset": 9100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 19500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "envolve",
+                        "Offset": 21500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 25100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "espírito",
+                        "Offset": 25500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 31500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "certo",
+                        "Offset": 32700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "simão",
+                        "Offset": 44700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "pedro",
+                        "Offset": 48300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "amo",
+                        "Offset": 57900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 61100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 63100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 64700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 66700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "observar",
+                        "Offset": 68700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "depois",
+                        "Offset": 73500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "olha",
+                        "Offset": 78700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 82300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "todas",
+                        "Offset": 83900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "as",
+                        "Offset": 86700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "carnes",
+                        "Offset": 88300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 95500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 97900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "só",
+                        "Offset": 98300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "pedro",
+                        "Offset": 99900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "simão",
+                        "Offset": 105500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "pedro",
+                        "Offset": 109100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "certo",
+                        "Offset": 116300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 124300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "apóstolo",
+                        "Offset": 125900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 133500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "há",
+                        "Offset": 136300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "espírito",
+                        "Offset": 137100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "apostório",
+                        "Offset": 143100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "sem",
+                        "Offset": 150300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "coração",
+                        "Offset": 151900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 156300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "serve",
+                        "Offset": 157100000,
+                        "Duration": 3600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6524409,
